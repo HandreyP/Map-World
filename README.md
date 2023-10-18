@@ -1,2 +1,2 @@
 # Map-World
-Map of World made of django, using folium and geocoder.
+The first version of the map, are made with folium and Geocoder
